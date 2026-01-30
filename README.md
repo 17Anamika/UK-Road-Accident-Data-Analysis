@@ -1,8 +1,6 @@
 # UK-Road-Accident-Data-Analysis
 End-to-end data analysis of UK road accident data using Python, SQL, and Power BI.
 
-Absolutely — this sounds like a solid, end-to-end data analytics project, and your README should show that off clearly without being overwhelming. Below is a clean, professional, GitHub-ready README summary you can copy-paste and tweak.
-
 
 
 
