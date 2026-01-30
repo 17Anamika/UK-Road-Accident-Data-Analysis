@@ -115,11 +115,11 @@ Built an interactive Power BI dashboard with:
 
 📁 Repository Structure
 
-├── data/                 # Raw and cleaned datasets
-├── notebooks/            # Python notebooks for EDA & preprocessing
-├── sql/                  # SQL queries used for analysis
-├── powerbi/              # Power BI report (.pbix)
-├── README.md             # Project documentation
+├── Raw and cleaned datasets(.csv)
+├── Python notebooks for EDA & preprocessing(.ipynb)
+├── SQL queries used for analysis(.sql)
+├── Power BI report (.pbix)
+├── Project documentation(README)
 
 
 
