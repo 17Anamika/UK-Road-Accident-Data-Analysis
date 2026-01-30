@@ -47,6 +47,12 @@ Performed extensive data preparation using Python, including:
 
 
 
+📌 *Clean Dataset*  
+Due to file size constraints, the cleaned dataset used in this project is hosted externally.
+
+🔗 *Download Clean Dataset (OneDrive):* [Click here](https://drive.google.com/drive/folders/13dMwKhRJo1LOt-VUrLLUj3_vq9mIxgj7?usp=drive_link)
+
+
 
 
 2️⃣ Data Analysis (SQL)
