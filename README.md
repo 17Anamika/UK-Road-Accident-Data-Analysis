@@ -65,7 +65,7 @@ Used SQL for deeper analysis on the processed dataset:
 
 3. Common Table Expressions (CTEs)
 
-4. Filtering and ranking accident data to identify critical patterns
+4. Filtering and ranking accident data with high risks to identify critical patterns
 
 
 
