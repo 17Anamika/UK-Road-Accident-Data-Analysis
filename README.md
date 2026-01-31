@@ -104,14 +104,16 @@ Built an interactive Power BI dashboard with:
 
 
 🔍 Key Insights
-
-1. Identified high-risk accident locations across the UK
-
-2. Analyzed accident trends based on time, date, and severity
-
-3. Highlighted patterns that contribute to higher accident frequency
-
-4. Enabled dynamic filtering to support exploratory analysis
+1. Afternoon and evening hours record the highest accident volumes, with peaks during summer and autumn.
+2. Night-time accidents are fewer but more severe, showing a higher fatal or serious risk rate.
+3. Clear weather and normal road conditions account for most accidents due to higher traffic exposure, while adverse conditions increase risk severity.
+4. Urban areas dominate total accidents, whereas rural areas show relatively higher accident severity.
+5. Single carriageways and non-junction roads experience the most accidents, especially in urban settings.
+6. Uncontrolled pedestrian crossings are associated with higher accident counts than controlled crossings.
+7. A small set of police forces and local authorities account for a large share of total accidents.
+8. Police attended roughly two-thirds of accident scenes, with the remaining incidents unassisted.
+9. Quarterly accident distribution is fairly stable, with Q1 slightly lower than other quarters.
+10.Dual carriageways involve more vehicles per accident, reflecting higher traffic density.
 
 
 
