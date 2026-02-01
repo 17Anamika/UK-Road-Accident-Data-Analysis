@@ -113,7 +113,6 @@ Built an interactive Power BI dashboard with:
 7. A small set of police forces and local authorities account for a large share of total accidents.
 8. Police attended roughly two-thirds of accident scenes, with the remaining incidents unassisted.
 9. Quarterly accident distribution is fairly stable, with Q1 slightly lower than other quarters.
- 
 10.Dual carriageways involve more vehicles per accident, reflecting higher traffic density.
 
 
